@@ -1,0 +1,5 @@
+#CAEN
+Host caen
+    HostName login.engin.umich.edu
+    Port 22
+    User astaut
